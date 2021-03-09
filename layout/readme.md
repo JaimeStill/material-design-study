@@ -3,6 +3,7 @@
 * [Measurements](./measurements.md)
 * [Responsive Layout Grid](./responsive-layout-grid.md)
 * [Spacing Methods](./spacing-methods.md)
+* [Component Behavior](./component-behavior.md)
 
 Material Design layouts encourage consistency across platforms, environments, and screen sizes by using uniform elements and spacing.
 

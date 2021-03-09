@@ -6,3 +6,4 @@
     * [Responsive Layout Grid](./layout/responsive-layout-grid.md)
     * [Spacing Methods](./layout/spacing-methods.md)
     * [Component Behavior](./layout/component-behavior.md)
+    * [Applying Density](./layout/applying-density.md)
